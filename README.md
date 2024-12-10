@@ -28,5 +28,6 @@ To run this project, you will need:
    git clone https://github.com/oussema-fdhila/Premier-League-Player-Statistics-Analysis.git
 
 2. Install the required libraries:
+   ```bash
    pip install -r requirements.txt
    
