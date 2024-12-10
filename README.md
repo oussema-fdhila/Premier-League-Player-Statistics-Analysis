@@ -20,4 +20,4 @@ This project involves collecting and analyzing data on all Premier League player
 ## Getting Started  
 To run this project, you will need:  
 - Python 3.x  
-- Libraries: `pandas`, `matplotlib`, `seaborn`, `beautifulsoup4`, etc. 
+- Libraries: `pandas`, `matplotlib`, `seaborn`, `beautifulsoup4`, `requests`. 
