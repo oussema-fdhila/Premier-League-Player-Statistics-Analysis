@@ -20,4 +20,13 @@ This project involves collecting and analyzing data on all Premier League player
 ## Getting Started  
 To run this project, you will need:  
 - Python 3.x  
-- Libraries: `pandas`, `matplotlib`, `seaborn`, `beautifulsoup4`, `requests`. 
+- Libraries: `pandas`, `matplotlib`, `seaborn`, `beautifulsoup4`, `requests`.
+
+### Usage  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/oussema-fdhila/Premier-League-Player-Statistics-Analysis.git
+
+2. Install the required libraries:
+   pip install -r requirements.txt
+   
